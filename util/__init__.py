@@ -4,8 +4,3 @@
 # @File    : __init__.py.py
 # @Comment : 
 #            
-
-import sys
-
-reload(sys)
-sys.setdefaultencoding('utf-8')
