@@ -7,4 +7,6 @@
 import icore.intermediate.functions.MyFunctions as target
 
 target.fun1('first', 'second')
-target.fun1('first one', 'r1', 'r2', '3')
+target.fun1('first one', 'r1', 'r2', 'r3')
+
+target.fun2('item', 'Albatross', size='large', quantity=6)
